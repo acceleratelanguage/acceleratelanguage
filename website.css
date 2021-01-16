@@ -1,0 +1,145 @@
+.title {
+    padding-top: 124px;
+    font-size: 60px;
+    color: #202020;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: #fac20a;
+    text-underline-position: under;
+}
+
+.title:hover {
+    color: #fac20a;
+    text-decoration: none;
+}
+
+.title2 {
+    padding-top: 2px;
+    font-size: 17px;
+    color: #3f3f3f;
+    text-align: center;
+    font-family: "Fira Sans Condensed";
+    font-weight: normal;
+}
+
+.button {
+    display: inline-block;
+    font-size: 17px;
+    color: #3f3f3f;
+    text-align: center;
+    font-family: "Fira Sans Condensed";
+    font-weight: normal;
+    text-decoration: none;
+    margin-left: 12px;
+    margin-right: 12px;
+    border-bottom: 1px solid #ffffff;
+    padding-bottom: 3px;
+}
+
+.button:hover {
+    border-bottom: 1px solid #fac20a;
+}
+
+.buttons {
+    padding-top: 64px;
+    text-align: center;
+}
+
+.subtitle {
+    width: 600px;
+    font-size: 32px;
+    color: #202020;
+    text-align: left;
+    font-family: "Playfair Display", serif;
+    margin: auto;
+}
+
+.text {
+    width: 600px;
+    font-size: 20px;
+    text-align: left;
+    font-family: "Fira Sans Condensed";
+    margin: auto;
+    color: #3f3f3f;
+    line-height: 140%;
+}
+
+.appoint {
+    width: 600px;
+    margin: auto;
+}
+
+.footer {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 0px;
+    width: 100%;
+    margin: none;
+    background-color: #707070;
+}
+
+.rates {
+    text-decoration-color: #fac20a;
+    color: #3f3f3f;
+}
+
+.rates:hover {
+    text-decoration: none;
+    color: #fac20a;
+}
+
+.blog {
+    color: #ffffff;
+    text-decoration: underline;
+    text-decoration-color: #fac20a;
+
+}
+
+.blog:hover {
+    text-decoration: none;
+    color: #fac20a;
+}
+
+.personal {
+    font-size: 24px;
+    color: #202020;
+    text-align: center;
+    font-family: "Playfair Display", serif;
+    margin: auto;
+}
+
+.hour {
+    font-size: 20px;
+    text-align: left;
+    font-family: "Fira Sans Condensed";
+    color: #3f3f3f;
+    line-height: 140%;
+}
+
+.hours {
+    width: 600px;
+    margin: auto;
+}
+
+.icon {
+    width: 60px;
+}
+
+.form {
+    width: 658px;
+    margin: auto;
+}
+
+.schedule {
+    text-decoration: underline;
+    text-decoration-color: #fac20a;
+    color: #3f3f3f;
+}
+
+.schedule:hover {
+    text-decoration: none;
+    color: #fac20a;
+}
