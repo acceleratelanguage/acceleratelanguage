@@ -1,3 +1,7 @@
+html, body {
+    overflow-x: hidden;
+}
+
 .title {
     padding-top: 124px;
     font-size: 60px;
@@ -213,7 +217,7 @@
     }
 
     .personal {
-        font-size: 32px;
+        font-size: 48px;
         color: #202020;
         text-align: left;
         font-family: "Playfair Display", serif;
@@ -222,13 +226,12 @@
     }
 
     .image {
-        margin: auto;
         padding-left: 10%;
-        width: 80%;
+        max-width: 80%;
     }
 }
 
-@media only screen and (max-width: 632px) {
+@media only screen and (max-width: 600px) {
     .title {
         padding-top: 48px;
         font-size: 60px;
