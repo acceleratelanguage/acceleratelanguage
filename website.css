@@ -217,6 +217,7 @@ html, body {
     }
 
     .personal {
+        padding-left: 15%;
         font-size: 48px;
         color: #202020;
         text-align: left;
@@ -226,8 +227,8 @@ html, body {
     }
 
     .image {
-        padding-left: 10%;
-        max-width: 80%;
+        padding-left: 5%;
+        max-width: 90%;
     }
 }
 
