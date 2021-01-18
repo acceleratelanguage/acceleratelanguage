@@ -151,7 +151,7 @@
     padding-left: 230px;
 }
 
-@media only screen and (min-height: 1900px) and (max-width: 1300px) {
+@media only screen and (max-device-width: 500px) {
     
     .title {
         padding-top: 48px;
