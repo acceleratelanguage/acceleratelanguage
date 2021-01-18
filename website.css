@@ -151,6 +151,10 @@
     padding-left: 230px;
 }
 
+.image {
+    width: 361px;
+}
+
 @media only screen and (max-device-width: 500px) {
     
     .title {
@@ -207,9 +211,24 @@
         width: 100%;
         margin: auto;
     }
+
+    .personal {
+        font-size: 32px;
+        color: #202020;
+        text-align: left;
+        font-family: "Playfair Display", serif;
+        float: left;
+        padding-top: 48px;
+    }
+
+    .image {
+        margin: auto;
+        padding-left: 10%;
+        width: 80%;
+    }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 632px) {
     .title {
         padding-top: 48px;
         font-size: 60px;
@@ -263,5 +282,22 @@
     .form {
         width: 100%;
         margin: auto;
+    }
+
+    .personal {
+        padding-left: 25%;
+        padding-bottom: 24px;
+        width: 100%;
+        font-size: 32px;
+        color: #202020;
+        text-align: left;
+        font-family: "Playfair Display", serif;
+        padding-top: 48px;
+    }
+
+    .image {
+        margin: auto;
+        padding-left: 10%;
+        width: 80%;
     }
 }
