@@ -240,7 +240,8 @@ html, body {
     }
 
     .subtitleBlog {
-        font-size: 32px;
+        font-size: 26px;
+        padding-top: 2px;
     }
 }
 
