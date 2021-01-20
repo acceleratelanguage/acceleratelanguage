@@ -183,7 +183,7 @@ html, body {
     }
 
     .hour {
-        font-size: 32px;
+        font-size: 24px;
         text-align: left;
         font-family: "Fira Sans Condensed";
         color: #3f3f3f;
@@ -231,7 +231,7 @@ html, body {
         text-align: left;
         font-family: "Playfair Display", serif;
         float: left;
-        padding-top: 48px;
+        padding-top: 24px;
     }
 
     .image {
